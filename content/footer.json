@@ -5,11 +5,30 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Informações",
+    "list": [
+      {
+        "text": "Lyndsen Store"
+      },
+      {
+        "text": "Como Comprar"
+      },
+      {
+        "text": "Meios de Pagamento"
+      },
+      {
+        "text": "Formas de Entrega"
+      },
+      {
+        "text": "Segurança & Privacidade"
+      },
+      {
+        "text": "Trocas & Devolução"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -32,10 +51,10 @@
     "pix": true,
     "visa": true,
     "mastercard": true,
-    "elo": true,
-    "amex": true,
-    "hipercard": true,
-    "boleto": true
+    "elo": false,
+    "amex": false,
+    "hipercard": false,
+    "boleto": false
   },
   "credits": ""
 }
