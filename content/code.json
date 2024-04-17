@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": "/*pc*/@media (min-width: 601px){\n\n\n\n.header__logo {\n    max-height: 100px;\n    max-width: 300px;\n}\n  \n  .header {\n    background: #ffffff;\n  \n  \n  }}\n /*mobile*/@media (max-width: 600px) {\n}}\n /*responsivo*/\n}}",
   "html_head": "",
   "html_body": ""
 }
