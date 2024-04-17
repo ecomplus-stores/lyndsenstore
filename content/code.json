@@ -1,5 +1,5 @@
 {
-  "css": "/*pc*/@media (min-width: 601px){\n\n\n\n.header__logo {\n    max-height: 100px;\n    max-width: 300px;\n}\n  \n  .header {\n    background: #ffffff;\n  \n  \n  }}\n /*mobile*/@media (max-width: 600px) {\n}}\n /*responsivo*/\n}}",
+  "css": "/*pc*/@media (min-width: 601px){\n\n\n\n.header__logo {\n    max-height: 100px;\n    max-width: 300px;\n}\n  \n  .header {\n    background: #ffffff;border-bottom: 1px solid #d0b17a;\n  box-shadow: -6px 15px 14px -9px rgba(0,0,0,0.37);\n  \n  }\n\n\n\n\n}\n /*mobile*/@media (max-width: 600px) {\n}}\n /*responsivo*/\n}}",
   "html_head": "",
   "html_body": ""
 }
