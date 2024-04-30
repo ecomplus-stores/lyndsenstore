@@ -4,7 +4,7 @@
     "random": 6,
     "full_width": true
   },
-  "menu_all_departments": true,
+  "menu_all_departments": false,
   "centralized_logo": true,
   "marketing_stripe": {
     "text": "Use o cupom: PRIMEIRACOMPRA e ganhe 5% em sua primeira compra ",
