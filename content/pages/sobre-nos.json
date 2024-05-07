@@ -1,6 +1,27 @@
 {
   "title": "Sobre nós",
-  "meta_title": "Sobre nós",
-  "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "Sobre nós - **L﻿yndsen Store - Moda Feminina - Fabricação Própria**",
+  "meta_description": "Sobre nós L﻿yndsen Store - Moda Feminina - Fabricação Própria",
+  "body": "**L﻿yndsen store - Moda Feminina - Fabricação Própria**\n\n\n\n**Missão:** Nossa missão e oferecer produtos de extrema qualidade; Manter a qualidade e cuidado  no processo de fabricação, garantindo uma ótima relação custo x benefícios; ser financeiramente saudável; proporcionando retorno para revendedores e a própria empresas! Leva conforto e praticidade  e garanti um atendimento extremamente eficiente e gentil; trazendo uma experiência tecnológica e inovadora no ramo da moda.\n\n\n\n**Visão:** Ser reconhecida como uma empresa que preza pela procedência da matéria prima, pela integridade no processo de fabricação e pela qualidade dos produtos.\n\n\n\n**Valores:** transparência na produção e negociações; qualidade extrema em matéria prima e produto final; respeito com cliente , responsabilidade com parceiros envolvidos no processo de fabricação; Amor a tudo que se faz.\n\n\n\nVenha descobrir a história por trás de nossas peças e mergulhe no universo encantador da **L﻿yndsen store.**\n\nNossa jornada começou em 2021, quando um sonho pulsante de independência financeira e empreendedorismo tomou forma no seio de uma família.\n\n**Dyovanna Lyndsen** trouxe a ideia aos seus pais, **Francilene** e **Erivelton,** que não só a abraçaram, mas ousaram mergulhar de cabeça nesse desafiador e desconhecido ramo de negócios.\n\nCom uma pitada de conhecimento em corte e costura e uma grande dose de habilidade na comunicação com os clientes, Francilene e Erivelton uniram forças com Dyovanna para criar algo único. Começando modestamente nas feiras de Goiânia, onde Erivelton já era conhecido como um habilidoso vendedor ambulante, nossas peças logo conquistaram corações e se destacaram.\n\nCom determinação e espírito empreendedor, expandimos para o e-commerce, levando nossa marca e nossa história para todos os cantos do Brasil. Nossa missão é simples: oferecer não apenas produtos de qualidade, mas também compartilhar uma narrativa de coragem, determinação e trabalho em equipe.\n\nCada peça que você encontra em nossa loja online carrega consigo não apenas o cuidado artesanal de Francilene, mas também a paixão de Dyovanna pela moda e a dedicação de Erivelton em proporcionar uma experiência única para cada cliente.\n\nJunte-se a nós nessa jornada emocionante e descubra não apenas peças de vestuário, mas também uma história de superação e sucesso. Seja parte da família  **L﻿yndsen store** e vista-se com mais do que moda, vista-se com uma história!",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Destaques da loja "
+    }
+  ]
 }
