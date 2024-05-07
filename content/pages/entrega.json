@@ -1,6 +1,27 @@
 {
   "title": "Condições de entrega",
-  "meta_title": "Condições de entrega",
-  "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "Condições de entrega - L﻿yndsen store - Moda Feminina - Fabricação Própria",
+  "meta_description": "Condições de entrega - L﻿yndsen store - Moda Feminina - Fabricação Própria",
+  "body": "Envio para Todo Brasil.\n\nEnvio em até 3 dias úteis após comprovação de pagamento.\n\nFicou com algum dúvida fale conosco pelo whatsapp\n\nNossos contatos:\n\n<div class=\"extra-page\"><section class=\"md-content mb-5 pt-1 pt-sm-2 pt-lg-3\"><div class=\"container\"><h3>C&#xFEFF;ontatos :</h3><p>Whatsapp <a h=\"\" ref=\"https://web.whatsapp.com/send?phone=%2B556285119495\" target=\"_blank\" rel=\"noopener\" class=\"whatsapp-link\" data-tel=\"6285119495\" href=\"https://web.whatsapp.com/send?phone=%2B556285119495\">62 8511-9495</a></p><p><a href=\"https://www.instagram.com/lyndsenstore/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a></p></div></section></div>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Destaques da Loja"
+    }
+  ]
 }
