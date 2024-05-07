@@ -3,6 +3,33 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/atacado.jpg",
+          "mobile_img": "/img/uploads/atacado-m.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/vestido.jpg",
+          "mobile_img": "/img/uploads/vestido-m.jpg",
+          "link": "https://lyndsenstore.netlify.app/vestidos"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/croppeds.jpg",
+          "link": "https://lyndsenstore.netlify.app/cropped",
+          "mobile_img": "/img/uploads/croppeds-m.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
