@@ -1,6 +1,27 @@
 {
   "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "Contato - Lyndsen Store - Moda Feminina - Fabricação Própria",
+  "meta_description": "Contato -  Lyndsen Store - Moda Feminina - Fabricação Própria",
+  "body": "### C﻿ontatos : \n\n\n\nWhatsapp <a h ref=\"https://web.whatsapp.com/send?phone=%2B556285119495\" target=\"_blank\" rel=\"noopener\" class=\"whatsapp-link\" data-tel=\"6285119495\">62 8511-9495</a>\n\n<a href=\"https://www.instagram.com/lyndsenstore/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a>",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Destaques da Loja"
+    }
+  ]
 }
