@@ -1,6 +1,27 @@
 {
   "title": "Dúvidas frequentes",
-  "meta_title": "Dúvidas frequentes",
-  "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "Dúvidas frequentes - L﻿yndsen store - Moda Feminina - Fabricação Própria",
+  "meta_description": "Dúvidas frequentes - L﻿yndsen store - Moda Feminina - Fabricação Própria",
+  "body": "**COMO COMPRAR?**\n\nÉ muito fácil comprar seus produtos na L﻿yndsen store.\n\nEscolha seus produtos, clique em adicionar ao carrinho ou no botão comprar, ele será adicionado ao seu carrinho.\n\nApós escolher todos os produtos que desejar. Clique no carrinho em Finalizar Compra\n\n**Defina o frete de envio**\n\nConfirme seus dados para envio, confira se todos os dados estão corretos, caso falte alguma numeração ou dado para envio, o retorno e reenvio será cobrado do cliente, não nos responsabilizamos por informações incorretas ou dados faltantes.\n\nEscolha a forma de pagamento e finalize a compra.\n\nPronto, seu pedido será embalado para postagem.\n\n**QUAL É A FORMA E O PRAZO DE ENTREGA?**\n\nO prazo de entrega depende do CEP de destino e será informado na página de finalização do pedido, a entrega será realizada pelos CORREIOS ou Transportadora. Você poderá escolher entre os serviços PAC, SEDEX , Transportadora como método de envio na página de finalização do pedido.\n\n**QUAIS SÃO AS FORMAS DE PAGAMENTO?**\n\nVocê pode pagar com cartão de crédito ou boleto bancário , depósito bancário/ PIX, neste caso você será instruído no próprio site e por e-mail sobre a conta e como proceder com o pagamento.\n\n**COMO ACOMPANHAR O ANDAMENTO DO PEDIDO?**\n\n[Acompanhe aqui.](/app/#/account/orders)\n\n**TROCAS E DEVOLUÇÕES**\n\nTodas as ocorrências que envolvam troca ou devolução devem ser comunicadas nesta página com o assunto TROCA ou DEVOLUÇÃO e com os dados da compra no campo MENSAGEM.\n\nO contato deve ser enviado em até 48 horas após o recebimento dos produtos, trocas ou devoluções não comunicadas ou comunicadas após o prazo não serão efetuadas.\n\nA devolução deve ser feita com a mesma embalagem e cuidados que o produto foi enviado. Se o produto for devolvido sem os cuidados necessários e chegar avariado, a troca ou devolução não será efetuada.\n\nIMPORTANTE: Recuse o recebimento dos produtos em caso de embalagem avariada ou produto em desacordo com o pedido.\n\nSe ainda assim você receber o produto, entre em contato conosco em até 48 horas.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Destaques da Loja"
+    }
+  ]
 }
