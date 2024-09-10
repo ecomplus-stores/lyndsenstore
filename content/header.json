@@ -21,10 +21,11 @@
     "pages": [
       {
         "title": "Meus Pedidos",
-        "link": ""
+        "link": "https://lyndsenstore.com.br/app/#/account/orders"
       },
       {
-        "title": "Como Comprar"
+        "title": "Como Comprar",
+        "link": "https://lyndsenstore.com.br/pages/faq"
       }
     ],
     "phone_wpp": true,
