@@ -1,5 +1,5 @@
 {
-  "css": "/*pc*/@media (min-width: 601px){\n\n\n\n.header__logo {\n    max-height: 100px;\n    max-width: 300px;\n}\n  .d-lg-inline {\n    display: none !important;\n}\n  .header__search-input {\n    border-radius: 30px;}\n  .header {\n    background: #ffffff;border-bottom: 1px solid #d0b17a;\n  box-shadow: -6px 15px 14px -9px rgba(0,0,0,0.37);\n  \n  }\n  .footer__links i {\n    color: #ddbe86;\n}\n\n.footer {\n    background: #ddbe86;\n    border-top: var(--spacer-1) solid var(--secondary);\n}\n.footer__store {\n  color: #ffffff;}\n.footer__title {\n  color: #ffffff;}\n}\n /*mobile*/@media (max-width: 600px) {\n}}\n /*responsivo*/\n}}",
+  "css": "/*pc*/@media (min-width: 601px){\n\n\n\n.header__logo {\n    max-height: 100px;\n    max-width: 300px;\n}\n  .d-lg-inline {\n    display: none !important;\n}\n  .header__search-input {\n    border-radius: 30px;}\n  .header {\n    background: #ffffff;border-bottom: 1px solid #d0b17a;\n  box-shadow: -6px 15px 14px -9px rgba(0,0,0,0.37);\n  \n  }\n  .footer__links i {\n    color: #ddbe86;\n}\n\n.footer {\n    background: #ddbe86;\n    border-top: var(--spacer-1) solid var(--secondary);\n}\n.footer__store {\n  color: #ffffff;}\n.footer__title {\n  color: #ffffff;}\n}\n /*mobile*/@media (max-width: 600px) {\n}}\n /*responsivo*/\n}\n.product__short-stock{ display:none;}\n\n}",
   "html_head": "",
   "html_body": ""
 }
