@@ -4,31 +4,37 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "Informações",
     "list": [
       {
-        "text": "Lyndsen Store"
+        "text": "Lyndsen Store",
+        "url": "https://lyndsenstore.com.br/pages/sobre-nos"
       },
       {
-        "text": "Como Comprar"
+        "text": "Como Comprar",
+        "url": "https://lyndsenstore.com.br/pages/faq"
       },
       {
-        "text": "Meios de Pagamento"
+        "text": "Meios de Pagamento",
+        "url": "https://lyndsenstore.com.br/pages/pagamentos"
       },
       {
-        "text": "Formas de Entrega"
+        "text": "Formas de Entrega",
+        "url": "https://lyndsenstore.com.br/pages/entrega"
       },
       {
-        "text": "Segurança & Privacidade"
+        "text": "Segurança & Privacidade",
+        "url": "https://lyndsenstore.com.br/pages/privacidade"
       },
       {
-        "text": "Trocas & Devolução"
+        "text": "Trocas & Devolução",
+        "url": "https://lyndsenstore.com.br/pages/trocas"
       }
     ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
