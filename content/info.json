@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para todo o Brasil",
+    "link": "https://lyndsenstore.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
