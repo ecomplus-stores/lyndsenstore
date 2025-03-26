@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e86bb36bf02a3f8408d8d8e353431100.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.116031eaad2703541ace8d2804113d90.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a2d214441ecc6d62a1f6c1982b189015.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.453a996b9621cf7575dc2d9e3040a55d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.a012164146551ef3c0a1ef06c90f4c72.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lyndsen Store ",
+  "short_name": "Lyndsen Store",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "L﻿yndsen store - Revenda Moda Feminina - Fabricação Própria. Seja parte da família L﻿yndsen store e vista-se com mais do que moda, vista-se com uma história! Envio para Todo Brasil.",
+  "background_color": "#ffffff",
+  "theme_color": "#2f2f2f"
+}
